@@ -1,44 +1,81 @@
-# Nashville Housing Data – Data Cleaning & Analysis
-# Overview
+# Nashville Housing Data — Data Cleaning & Exploratory Analysis
 
-This project focuses on cleaning, organizing, and preparing a real-world housing dataset from Nashville, Tennessee. The goal is to demonstrate foundational data analytics skills, including data cleaning, standardization, transformation, and preparation for analysis.
+## 📌 Overview
+This project focuses on cleaning, organizing, and exploring a real-world housing dataset from Nashville, Tennessee.  
+It demonstrates foundational data analytics skills including data cleaning, standardization, transformation, and exploratory analysis using Google Sheets.
 
-# Tools Used
+---
 
-Excel
+## 🎯 Objectives
+- Clean and standardize the raw dataset  
+- Prepare the data for analysis  
+- Identify basic patterns and opportunities for deeper insights  
+- Document the process clearly for recruiters and stakeholders  
 
-SQL (optional, coming later)
+---
 
-Data visualization tool (optional)
+## 🗂️ Dataset
+- **Source:** Public Nashville Housing Dataset (Kaggle)  
+- **File:** `nashville_housing.csv`  
+- **Rows:** ~56,000  
+- **Description:** Contains property sales records, addresses, prices, ownership details, and transaction dates.  
 
-Dataset
+---
 
-# Source: Public Nashville Housing Dataset
+## 🧹 Data Cleaning Steps (Completed)
+These steps were performed using **Google Sheets**:
 
-# Rows: ~56,000
+### ✅ 1. Standardized date formats  
+Converted the `SaleDate` column into a consistent date format using *Format → Number → Date*.
 
-# Columns: Multiple housing-related fields
+### ✅ 2. Split property address into components  
+Used *Data → Split text to columns* with comma as delimiter to separate street and city fields.
 
-# Objectives
+### ✅ 3. Removed duplicate records  
+Applied *Data → Data cleanup → Remove duplicates* to eliminate repeated rows.
 
-Clean and standardize the dataset
+### ✅ 4. Standardized text fields  
+Used the `PROPER()` function to format owner names and other text fields into consistent capitalization.
 
-Transform key fields (dates, addresses, categories)
+### ✅ 5. Optional transformations  
+Separated owner first and last names using *Split text to columns* (space delimiter).
 
-Identify patterns and inconsistencies
+---
 
-Prepare data for future analysis and visualization
+## 📊 Exploratory Analysis (Coming Soon)
+Planned steps:
+- Summary statistics  
+- Price distribution analysis  
+- Trends by year  
+- Insights by location  
+- Initial charts created in Google Sheets  
 
-# Cleaning Steps Completed
+---
 
-(Coming soon — cleaning in progress)
+## 💡 Insights (Coming Soon)
+Will include 3–5 professional insights based on cleaned data.
 
-# Next Steps
+---
 
-Create summary statistics
+## 🛠️ Tools Used
+- Google Sheets  
+- (Optional upcoming) Tableau / Power BI  
+- GitHub for version control & documentation  
 
-Build simple visualizations
+---
 
-Document insights
+## ✅ Next Steps
+- Upload visualizations  
+- Add SQL queries for deeper analysis  
+- Build a small dashboard  
+- Add insights and recommendations  
 
-Upload before/after screenshots
+---
+
+## 📬 Contact
+If you'd like to review more of my work or connect:
+
+- GitHub Portfolio main page  
+- LinkedIn  
+- Email: [tu email aquí]
+
