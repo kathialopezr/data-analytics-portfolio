@@ -20,7 +20,8 @@ Currently building my portfolio with real-world data projects using **Google She
 ---
 
 ### 📂 Featured Projects
-- 🧹 [Nashville-housing-analysis](https://github.com/kathialopezr/data-analytics-portfolio/tree/main/nashville-housing-analysis)  
+- [Nashville-housing-analysis](https://github.com/kathialopezr/data-analytics-portfolio/tree/main/nashville-housing-analysis)
+- [Betterhelp-case-study](https://github.com/kathialopezr/betterhelp-case-study/tree/main) 
 
 
 ---
