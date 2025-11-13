@@ -46,7 +46,7 @@ I created charts and visual summaries to better understand the data:
 - Line charts for trends during 2013.  
 - Basic descriptive statistics (average, median, etc.).  
 
-🔗 **You can view my chart here:**  
+🔗 **You can view my chart here:**  https://github.com/kathialopezr/data-analytics-portfolio/blob/main/nashville-housing-analysis/AVERAGE%20Price%20per%20city.png
 
 ---
 
