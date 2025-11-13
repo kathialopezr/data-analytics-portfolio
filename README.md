@@ -1,18 +1,37 @@
-# Hi! I’m Kathia
-Aspiring Data Analyst with training from the Google Data Analytics Certificate and hands-on practice in data cleaning, visualization, and SQL.
+# Hi there, I'm Kathia 👋  
 
-# 🔧 Skills
+🎯 **Aspiring Data Analyst | Google Data Analytics Graduate | Based in the Downingtown PA USA**
 
-Excel / Google Sheets
+I’m passionate about transforming data into insights that drive smart decisions.  
+Currently building my portfolio with real-world data projects using **Google Sheets, Excel, SQL,R Studio**.
 
-SQL
+---
 
-R (beginner)
+### 🔍 About Me  
+- 📚 Completed the **Google Data Analytics Certificate** on Coursera  
+- 📊 Skilled in **data cleaning, visualization, and storytelling**    
+- 🌎 Interested in **remote data roles/hybrid/on-site** and continuous learning  
 
-Tableau
+---
 
-Data Cleaning & Analysis
+### 🧠 My Toolbox
+`Google Sheets` | `Excel` | `SQL` | `Python` | `Tableau` | `GitHub`
 
-Dashboard creation
+---
 
-# 📂 Projects
+### 📂 Featured Projects
+- 🧹 [](link-to-your-project)  
+
+
+---
+
+### 🌱 Currently Learning
+- Data visualization best practices  
+- Building dashboards and writing data-driven reports  
+
+---
+
+### 📫 Connect with Me
+📧 [lopezrodartek@gmail.com]  
+💼 [LinkedIn Profile](www.linkedin.com/in/kathia-vanessa-lopez-rodarte-46095b26a)  
+📊 [GitHub Portfolio]()
