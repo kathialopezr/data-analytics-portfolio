@@ -34,4 +34,4 @@ Currently building my portfolio with real-world data projects using **Google She
 ### 📫 Connect with Me
 📧 [lopezrodartek@gmail.com]  
 💼 [LinkedIn Profile](www.linkedin.com/in/kathia-vanessa-lopez-rodarte-46095b26a)  
-📊 [GitHub Portfolio]()
+📊 [GitHub Portfolio](https://github.com/kathialopezr/data-analytics-portfolio/blob/main/README.md)
