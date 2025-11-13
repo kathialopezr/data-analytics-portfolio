@@ -7,10 +7,9 @@ It demonstrates foundational data analytics skills including data cleaning, stan
 ---
 
 ## 🎯 Objectives
-- Clean and standardize the raw dataset  
-- Prepare the data for analysis  
-- Identify basic patterns and opportunities for deeper insights  
-- Document the process clearly for recruiters and stakeholders  
+- Clean and prepare the dataset for analysis.  
+- Explore patterns, trends, and relationships within the data.  
+- Extract actionable insights and visualize the findings. 
 
 ---
 
@@ -41,34 +40,26 @@ Used the `PROPER()` function to format owner names and other text fields into co
 Separated owner first and last names using *Split text to columns* (space delimiter).
 
 ---
+## 📈 Analysis & Visualization
+I created charts and visual summaries to better understand the data:  
+- Bar charts to show category comparisons.  
+- Line charts for trends during 2013.  
+- Basic descriptive statistics (average, median, etc.).  
 
-## 📊 Exploratory Analysis (Coming Soon)
-Planned steps:
-- Summary statistics  
-- Price distribution analysis  
-- Trends by year  
-- Insights by location  
-- Initial charts created in Google Sheets  
+🔗 **You can view my chart here:**  
 
 ---
 
 ## 💡 Insights (Coming Soon)
-Will include 3–5 professional insights based on cleaned data.
+- [Insight 1: Short and clear statement about what you found.]  
+- [Insight 2: Another interesting discovery.]  
+- [Insight 3: Optional, but helps show analytical thinking.]  
 
 ---
 
 ## 🛠️ Tools Used
-- Google Sheets  
-- (Optional upcoming) Tableau / Power BI  
-- GitHub for version control & documentation  
-
----
-
-## ✅ Next Steps
-- Upload visualizations  
-- Add SQL queries for deeper analysis  
-- Build a small dashboard  
-- Add insights and recommendations  
+- **Google Sheets** — Data cleaning, analysis, and visualization  
+- **GitHub** — Project documentation and version control       
 
 ---
 
@@ -76,6 +67,8 @@ Will include 3–5 professional insights based on cleaned data.
 If you'd like to review more of my work or connect:
 
 - GitHub Portfolio main page  
-- LinkedIn  
-- Email: [tu email aquí]
+- LinkedIn www.linkedin.com/in/kathia-vanessa-lopez-rodarte-46095b26a  
+- Email: lopezrodartek@gmail.com
+
+
 
