@@ -15,7 +15,7 @@ Currently building my portfolio with real-world data projects using **Google She
 ---
 
 ### 🧠 My Toolbox
-`Google Sheets` | `Excel` | `SQL` | `Python` | `Tableau` | `GitHub`
+`Google Sheets` | `Excel` | `SQL` | `Tableau` | `GitHub`
 
 ---
 
